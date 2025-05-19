@@ -13,10 +13,10 @@ In the Terminal at the bottom of the screen in Visual Studio Code, use the follo
 Pip3 install numpy pandas scipy matplotlib sklearn tkinter
 
 If errors come up for any of these, try entering these shortforms for the module instead when running the above command:
-For numpy -> np
-For pandas -> pd
-For matplotlib -> plt
-For sklearn -> skl
+For numpy -> np,
+For pandas -> pd,
+For matplotlib -> plt,
+For sklearn -> skl,
 For tkinter -> Tk
 
 If everything above has been completed successfully, you should be able to run the code by clicking the Play button (looks like a triangle pointing to the right) in the top right of Visual Studio Code. A window should appear prompting you to select the Excel file from which you are extracting data.
